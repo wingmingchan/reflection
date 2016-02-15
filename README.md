@@ -5,4 +5,4 @@ How to use this:
 
 1. Create a folder named chanw right inside ROOT
 2. Put the reflection folder, containing sub-folders and JSP pages, inside chanw
-3. In a browser, navigate to http://myorganiztion.edu:1234/chanw/reflection/
+3. In a browser, navigate to http://myorganiztion.edu:1234/chanw/reflection/, where the first part is the url used to access Cascade, like http://myorganiztion.edu:1234/entity/open.act?id=82b52bc78b7f08ee207c3cbbf01aa0d3&type=format
